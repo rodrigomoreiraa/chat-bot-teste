@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "venom": "^0.1.0",
+    "venom-bot": "^5.0.21"
+  }
+}
