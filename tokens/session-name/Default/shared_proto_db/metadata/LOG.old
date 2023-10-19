@@ -1,3 +1,2 @@
-2023/10/18-14:19:23.207 3ba4 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\shared_proto_db\metadata/MANIFEST-000001
-2023/10/18-14:19:23.207 3ba4 Recovering log #3
-2023/10/18-14:19:23.207 3ba4 Reusing old log C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\shared_proto_db\metadata/000003.log 
+2023/10/19-08:24:00.987 2e00 Creating DB C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\shared_proto_db\metadata since it was missing.
+2023/10/19-08:24:00.990 2e00 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\shared_proto_db\metadata/MANIFEST-000001

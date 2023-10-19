@@ -1,0 +1,29 @@
+2023/10/19-14:09:26.085 2544 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\atendimento\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/19-14:09:26.086 2544 Recovering log #272
+2023/10/19-14:09:26.093 2544 Reusing old log C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\atendimento\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000272.log 
+2023/10/19-14:09:36.681 2804 Level-0 table #285: started
+2023/10/19-14:09:36.686 2804 Level-0 table #285: 228329 bytes OK
+2023/10/19-14:09:36.687 2804 Delete type=0 #272
+2023/10/19-14:09:36.687 2544 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/19-14:09:36.824 2804 Compacting 1@1 + 9@2 files
+2023/10/19-14:09:36.858 2804 Generated table #286@1: 29965 keys, 2192090 bytes
+2023/10/19-14:09:36.880 2804 Generated table #287@1: 2495 keys, 2157722 bytes
+2023/10/19-14:09:36.905 2804 Generated table #288@1: 3527 keys, 2167435 bytes
+2023/10/19-14:09:36.947 2804 Generated table #289@1: 20110 keys, 2227891 bytes
+2023/10/19-14:09:36.989 2804 Generated table #290@1: 22191 keys, 2237715 bytes
+2023/10/19-14:09:37.014 2804 Generated table #291@1: 11313 keys, 2133209 bytes
+2023/10/19-14:09:37.080 2804 Generated table #292@1: 110582 keys, 2262561 bytes
+2023/10/19-14:09:37.154 2804 Generated table #293@1: 108067 keys, 2258668 bytes
+2023/10/19-14:09:37.187 2804 Generated table #294@1: 69194 keys, 1445170 bytes
+2023/10/19-14:09:37.187 2804 Compacted 1@1 + 9@2 files => 19082461 bytes
+2023/10/19-14:09:37.187 2804 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/10/19-14:09:37.188 2804 Delete type=2 #274
+2023/10/19-14:09:37.188 2804 Delete type=2 #275
+2023/10/19-14:09:37.188 2804 Delete type=2 #276
+2023/10/19-14:09:37.188 2804 Delete type=2 #277
+2023/10/19-14:09:37.188 2804 Delete type=2 #278
+2023/10/19-14:09:37.188 2804 Delete type=2 #279
+2023/10/19-14:09:37.188 2804 Delete type=2 #280
+2023/10/19-14:09:37.188 2804 Delete type=2 #281
+2023/10/19-14:09:37.188 2804 Delete type=2 #282
+2023/10/19-14:09:37.188 2804 Delete type=2 #285

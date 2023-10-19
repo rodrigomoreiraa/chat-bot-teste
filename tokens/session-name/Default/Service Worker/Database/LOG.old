@@ -1,3 +1,2 @@
-2023/10/18-14:19:23.206 27d0 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\Service Worker\Database/MANIFEST-000001
-2023/10/18-14:19:23.206 27d0 Recovering log #3
-2023/10/18-14:19:23.207 27d0 Reusing old log C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\Service Worker\Database/000003.log 
+2023/10/19-08:24:01.767 2e00 Creating DB C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\Service Worker\Database since it was missing.
+2023/10/19-08:24:01.774 2e00 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\session-name\Default\Service Worker\Database/MANIFEST-000001

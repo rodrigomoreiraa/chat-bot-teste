@@ -1,0 +1,54 @@
+2023/10/19-14:05:50.833 3514 Reusing MANIFEST C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\atendimento\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/19-14:05:50.833 3514 Recovering log #249
+2023/10/19-14:05:50.866 3514 Reusing old log C:\Users\paulo.rodrigo\Documents\av1-chatbot\zapzap-bot\tokens\atendimento\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000249.log 
+2023/10/19-14:06:01.402 15bc Level-0 table #262: started
+2023/10/19-14:06:01.414 15bc Level-0 table #262: 741470 bytes OK
+2023/10/19-14:06:01.415 15bc Delete type=0 #249
+2023/10/19-14:06:01.416 3474 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/19-14:06:01.535 15bc Compacting 1@1 + 9@2 files
+2023/10/19-14:06:01.572 15bc Generated table #263@1: 28437 keys, 2190113 bytes
+2023/10/19-14:06:01.594 15bc Generated table #264@1: 2538 keys, 2159542 bytes
+2023/10/19-14:06:01.618 15bc Generated table #265@1: 3526 keys, 2169214 bytes
+2023/10/19-14:06:01.656 15bc Generated table #266@1: 20615 keys, 2230674 bytes
+2023/10/19-14:06:01.697 15bc Generated table #267@1: 22874 keys, 2234417 bytes
+2023/10/19-14:06:01.725 15bc Generated table #268@1: 21222 keys, 2146300 bytes
+2023/10/19-14:06:01.798 15bc Generated table #269@1: 108887 keys, 2262034 bytes
+2023/10/19-14:06:01.863 15bc Generated table #270@1: 108041 keys, 2259921 bytes
+2023/10/19-14:06:01.884 15bc Generated table #271@1: 43761 keys, 916961 bytes
+2023/10/19-14:06:01.884 15bc Compacted 1@1 + 9@2 files => 18569176 bytes
+2023/10/19-14:06:01.884 15bc compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/10/19-14:06:01.884 15bc Delete type=2 #251
+2023/10/19-14:06:01.884 15bc Delete type=2 #252
+2023/10/19-14:06:01.884 15bc Delete type=2 #253
+2023/10/19-14:06:01.884 15bc Delete type=2 #254
+2023/10/19-14:06:01.884 15bc Delete type=2 #255
+2023/10/19-14:06:01.884 15bc Delete type=2 #256
+2023/10/19-14:06:01.884 15bc Delete type=2 #257
+2023/10/19-14:06:01.884 15bc Delete type=2 #258
+2023/10/19-14:06:01.884 15bc Delete type=2 #259
+2023/10/19-14:06:01.885 15bc Delete type=2 #262
+2023/10/19-14:06:34.242 15bc Level-0 table #273: started
+2023/10/19-14:06:34.261 15bc Level-0 table #273: 1100559 bytes OK
+2023/10/19-14:06:34.262 15bc Delete type=0 #261
+2023/10/19-14:06:34.265 15bc Compacting 1@1 + 9@2 files
+2023/10/19-14:06:34.300 15bc Generated table #274@1: 29684 keys, 2190159 bytes
+2023/10/19-14:06:34.322 15bc Generated table #275@1: 2499 keys, 2159326 bytes
+2023/10/19-14:06:34.346 15bc Generated table #276@1: 3533 keys, 2168565 bytes
+2023/10/19-14:06:34.389 15bc Generated table #277@1: 20232 keys, 2228707 bytes
+2023/10/19-14:06:34.430 15bc Generated table #278@1: 23292 keys, 2236279 bytes
+2023/10/19-14:06:34.457 15bc Generated table #279@1: 11978 keys, 2136491 bytes
+2023/10/19-14:06:34.516 15bc Generated table #280@1: 110258 keys, 2261627 bytes
+2023/10/19-14:06:34.572 15bc Generated table #281@1: 108143 keys, 2259608 bytes
+2023/10/19-14:06:34.606 15bc Generated table #282@1: 67508 keys, 1409565 bytes
+2023/10/19-14:06:34.606 15bc Compacted 1@1 + 9@2 files => 19050327 bytes
+2023/10/19-14:06:34.606 15bc compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/10/19-14:06:34.607 15bc Delete type=2 #263
+2023/10/19-14:06:34.607 15bc Delete type=2 #264
+2023/10/19-14:06:34.607 15bc Delete type=2 #265
+2023/10/19-14:06:34.607 15bc Delete type=2 #266
+2023/10/19-14:06:34.607 15bc Delete type=2 #267
+2023/10/19-14:06:34.607 15bc Delete type=2 #268
+2023/10/19-14:06:34.607 15bc Delete type=2 #269
+2023/10/19-14:06:34.607 15bc Delete type=2 #270
+2023/10/19-14:06:34.607 15bc Delete type=2 #271
+2023/10/19-14:06:34.607 15bc Delete type=2 #273
