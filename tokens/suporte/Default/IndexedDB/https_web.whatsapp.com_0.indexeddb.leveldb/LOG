@@ -1,0 +1,6 @@
+2023/10/26-16:58:25.175 1570 Reusing MANIFEST C:\Users\paulo\Documents\JavaScript\chat-bot-teste\tokens\suporte\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/26-16:58:25.175 1570 Recovering log #264
+2023/10/26-16:58:25.200 1570 Reusing old log C:\Users\paulo\Documents\JavaScript\chat-bot-teste\tokens\suporte\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000264.log 
+2023/10/26-17:00:02.103 1570 Level-0 table #277: started
+2023/10/26-17:00:02.126 1570 Level-0 table #277: 1128374 bytes OK
+2023/10/26-17:00:02.131 1570 Delete type=0 #264
